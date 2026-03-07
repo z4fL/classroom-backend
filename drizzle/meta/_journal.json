@@ -8,6 +8,13 @@
       "when": 1771990617899,
       "tag": "0000_superb_radioactive_man",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772860099985,
+      "tag": "0001_fresh_wrecking_crew",
+      "breakpoints": true
     }
   ]
 }
